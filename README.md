@@ -13,6 +13,7 @@ The app figures out your zodiac sign and shows your horoscope on the page, along
 - JavaScript
 
 **What I Learned**
+
 Getting a value from a date input with JavaScript
 Fetching data from an API and putting it on the page
 Making a background image cover the whole page
