@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding: 0;
+  
+  
+}
+
+
+body{
+  background-image: url(zodiac.avif);
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+
+}
+
+h1,h2,input,p,button{
+  display: flex;
+  justify-content: center;
+}
+
+
+input,button{
+  margin-left: 45%;
+}
+
+p{
+display: flex;
+justify-content: center;
+margin-top: 5%;
+margin-left: 45%;
+font-size: xx-large;
+width: 15%;
+}
+
