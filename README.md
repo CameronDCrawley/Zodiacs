@@ -1,23 +1,35 @@
-**Horoscope App**
+## Horoscope App
+A simple web application where you enter your birthday to discover your zodiac sign and receive your personalized horoscope.
 
-A simple web app where you enter your birthday and get your zodiac sign and horoscope.
+## Features
+Zodiac Identification: Automatically calculates and displays your zodiac sign based on your selected birth date.
 
-**How It Works**
-Pick your birthday from the date picker.
-Click Enter.
-The app figures out your zodiac sign and shows your horoscope on the page, along with a picture.
+Daily Horoscope: Fetches and renders your personalized horoscope reading dynamically.
 
-**Built With**
-- HTML
-- CSS
-- JavaScript
+Visual Presentation: Displays an accompanying zodiac image along with a full-page background display.
 
-**What I Learned**
+## How It Works
+The user selects their birthday from the date picker and clicks Enter.
 
-Getting a value from a date input with JavaScript
-Fetching data from an API and putting it on the page
-Making a background image cover the whole page
+The application calculates the corresponding zodiac sign based on the input date.
 
+The app fetches the horoscope data for that sign.
+
+The zodiac sign, horoscope text, and matching picture are rendered dynamically on the page.
+
+## Built With
+HTML
+
+CSS
+
+JavaScript
+
+## What I Learned
+Getting a value from a date input with JavaScript.
+
+Fetching data from an API and putting it on the page.
+
+Making a background image cover the whole page.
 
 <img width="2265" height="1318" alt="image" src="https://github.com/user-attachments/assets/0d56e75a-030b-4a90-b169-9328022f5f91" />
 
