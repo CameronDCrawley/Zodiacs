@@ -1,6 +1,7 @@
 ## Horoscope App
-A simple web application where you enter your birthday to discover your zodiac sign and receive your personalized horoscope.
-
+A simple web application where you enter your birthday to discover your zodiac sign and receive your personalized horoscope
+## Live Demo
+https://camerondcrawley.github.io/Zodiacs/
 ## Features
 Zodiac Identification: Automatically calculates and displays your zodiac sign based on your selected birth date.
 
